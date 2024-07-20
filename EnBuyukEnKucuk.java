@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+//Kullanıcının girdiği sayılardan en büyük ve en küçük olanı bulan program.
+
 public class EnBuyukEnKucuk {
     public static void main(String[] args) {
 
